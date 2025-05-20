@@ -8,7 +8,7 @@ Está organização é destinada a gestão dos projetos da **CT-Infra**. Ela est
 
 :octocat: Os repositórios a seguir são aqueles que hospedam o código de cada uma dessas ferramentas:
   - [Horus](https://github.com/UFC-InfraViaria/horus), aplicação web destinada a analisar e publicizar os dados referentes aos estados das rodovovias
-  - [Midr](https://github.com/UFC-InfraViaria/MIDR), aplicação web usada para captar imagens dos defeitos em rodovias
+  - [Midr](https://github.com/UFC-InfraViaria/MIDR), aplicação móvel usada para captar imagens dos defeitos em rodovias
   - [Midr-Detector](https://github.com/UFC-InfraViaria/midr-detector), código fonte do modelo de inteligência artifical capaz de analisar as imagens da rodovia e identificar defeitos
     
 :eye: Podemos acompanhar o andamento dos projetos na seção [Projetos](https://github.com/orgs/UFC-InfraViaria/projects)
